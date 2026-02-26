@@ -782,6 +782,7 @@ pub enum ServiceTier {
     Flex,
     Scale,
     Priority,
+    OnDemand,
 }
 
 /// Truncation strategies.
